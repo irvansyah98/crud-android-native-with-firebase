@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "188756975365",
+    "firebase_url": "https://hardy-pattern-196008.firebaseio.com",
+    "project_id": "hardy-pattern-196008",
+    "storage_bucket": "hardy-pattern-196008.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188756975365:android:98fa4b68c9689a32",
+        "android_client_info": {
+          "package_name": "com.example.iervan.belajarfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188756975365-amsi66rkf7h06u883o8toju3nc8dgd17.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.iervan.belajarfirebase",
+            "certificate_hash": "fb7e7d018aa04801c9c5d2fc07deec28e46b495d"
+          }
+        },
+        {
+          "client_id": "188756975365-64sfa2ik7mro26at5nj6p64aj4ada0f9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVVzKTKkqIfOxPrLs-eiHP5NHfS-USXfA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188756975365-64sfa2ik7mro26at5nj6p64aj4ada0f9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
